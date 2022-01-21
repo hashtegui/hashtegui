@@ -7,3 +7,5 @@
 
 # Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" witdh=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdh=40 height=40/>
+
