@@ -3,4 +3,4 @@
 
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas Winthor, mas estou aberto a novas experiências
-- man_student Granduando em Sistemas de Informação
+- :man_student Granduando em Sistemas de Informação
