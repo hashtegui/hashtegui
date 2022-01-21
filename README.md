@@ -8,8 +8,10 @@
 # Linguagens e Ferramentas
 ### Versionamento de Código
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" witdh=40 height=40/>
+
 ### Sistemas Operacionais
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" witdh=40 height=40/>
+
 ### SQL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" witdh=40 height=40/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" witdh=40 height=40 />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" witdh=40 height=40 />
 
